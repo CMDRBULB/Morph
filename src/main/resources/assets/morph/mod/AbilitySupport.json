@@ -2167,10 +2167,10 @@
     "climb",
     "hostile"
   ],
-  "net.minecraft.entity.passive.EntitySquid": [
+  "net.minecraft.entity.passive.EntitySquidd": [
     "swim|false,1.2F,0.4F,true"
   ],
-   "com.Oceancraft.common.EntityOrca": [
+   "com.Oceancraft.common.entity.EntityOrca": [
     "swim|false,1.2F,0.4F,true"
   ],
   "net.minecraft.entity.boss.EntityWither": [
