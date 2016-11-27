@@ -2170,7 +2170,7 @@
   "net.minecraft.entity.passive.EntitySquid": [
     "swim|false,1.2F,0.4F,true"
   ],
-   "Oceancraft.common.EntityOrca": [
+   "com.Oceancraft.common.EntityOrca": [
     "swim|false,1.2F,0.4F,true"
   ],
   "net.minecraft.entity.boss.EntityWither": [
